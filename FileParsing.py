@@ -13,6 +13,7 @@ class FileParser:
                 self.path=self.PathFinding(chemin)
                 test=self.ReadNbOfEnnemies(self.path[0])
                 print(test)
+                print(test)
                 
                 
                 
